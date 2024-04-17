@@ -1,0 +1,37 @@
+.bg{
+    width: 780px;
+    margin: 70px auto;
+    position: relative;
+}
+.bg-img{
+    width: 800px;
+    border-radius: 16px;
+    height: 350px;
+}
+.content{
+    position: absolute;
+    bottom: 140px;
+    color: white;
+    left: 60px;
+}
+
+.Zomato{
+    text-align: center;
+    color: black;
+    font-size: xx-large;
+}
+
+.des{
+    color: black;
+
+}
+
+.input{
+    width: 400px;
+    margin-bottom: 12px;
+    padding: 16px;
+    box-sizing: border-box;
+    border-radius: 12px;
+    border: 1px solid lightgray;
+    font-size: 16px;
+}

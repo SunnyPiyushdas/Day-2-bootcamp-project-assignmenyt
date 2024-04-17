@@ -1,0 +1,40 @@
+.profile{
+    width: 600px;
+    margin: auto;
+    position: relative;
+}
+.cover{
+    width: 100%;
+    
+}
+.user{
+    height: 100px;
+    position: absolute;
+    left: 245px;
+    bottom: -50px;
+    border: 4px solid white;
+    border-radius: 50%;
+}
+
+.card{
+    border: 1px solid lightgray;
+    padding: 10px;
+    margin: 10px auto;
+    width: 700px;
+    border-radius: 14px;
+   height: 600px;
+}
+
+.main{
+    font-size: larger;
+    color: black;
+    text-align: center;
+    padding-top: 50px;
+    font-size: xx-large;
+}
+.des{
+    font-size: larger;
+    color: black;
+    text-align: center;
+   
+}
